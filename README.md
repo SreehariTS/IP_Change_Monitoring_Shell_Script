@@ -27,4 +27,5 @@ How to set up the script:
 ----------------------------------------------------------------------------------------------------------------------------------
 
 The DetectIPChange_SendTelegramMessage.sh script requires a telegram bot. Refer below link on how to create the bot and get the HTTPS API token and CHAT ID.
+
 https://www.techthoughts.info/how-to-create-a-telegram-bot-and-send-messages-via-api/
