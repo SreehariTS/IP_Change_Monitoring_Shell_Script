@@ -8,7 +8,7 @@ NEW_IP=$(wget -qO- ifconfig.me/ip)
 
 if [ " $NEW_IP " != " $OLD_IP " ];
 then
-        echo "Changed"
+        echo "Public IP address changed to $NEW_IP"
 fi
 
 echo $NEW_IP > old_ip.log
